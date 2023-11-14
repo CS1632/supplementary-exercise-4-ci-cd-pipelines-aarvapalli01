@@ -11,6 +11,7 @@
   <description>An exercise demonstrating CI/CD through github actions.  It uses JUnit for unit testing.</description>
   <url>https://github.com/wonsunahn/CS1632_CICD_JUnit</url>
 
+
   <licenses>
     <license>
       <name>The Apache Software License, Version 2.0</name>
